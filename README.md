@@ -1,4 +1,4 @@
-# AuthUI Example React Native Expo
+# AuthUI Example using React Native Expo
 
 Basic UI/UX of a Login Page and Sign up Page using React Native with Expo. Feel free to use this
 in your projects as it is ready to go.
