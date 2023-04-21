@@ -13,7 +13,9 @@ in your projects as it is ready to go.
 - NPM installed, see [installing npm]() to get started.
 - Expo installed, see [installing expo]() to get started.
 
-## Install
+## Getting Started
+
+Create a new project to follow along on your own:
 
 `expo init AuthUI --npm`
 
